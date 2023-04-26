@@ -1,7 +1,4 @@
-
-
-
-
+# This activity shows the coding applied to develop an interactive dashboard for Space X Falcon 9 rocket launche
 # Import required libraries
 import pandas as pd
 import dash
